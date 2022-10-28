@@ -1,8 +1,8 @@
+import {AppRoutes} from "./AppRoutes";
+
 function App() {
   return (
-    <div>
-      val
-    </div>
+    <AppRoutes/>
   );
 }
 
